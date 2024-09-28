@@ -1,0 +1,28 @@
+.div1{
+    width: 200px;
+    height: 200px;
+    border: 10px;
+    padding: 20px 10px 20px 10px;
+    background-color: blue;
+    margin: 0px;
+    border: solid;
+}
+.div2{
+    width: 200px;
+    height: 200px;
+    border: 20px;
+    padding: 20px 10px 20px 10px;
+    background-color: yellow;
+    margin-left: 20px;
+    border: solid
+}
+.div3{
+    width: 200px;
+    height: 200px;
+    border: 10px;
+    padding: 20px 10px 20px 10px;
+    background-color: red;
+    margin-left: 444px;
+    margin-right: 0px;
+    border: solid;
+}

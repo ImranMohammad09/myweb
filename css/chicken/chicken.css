@@ -1,0 +1,17 @@
+#heading{
+    color: blueviolet;
+}
+
+#heading2{
+    color: brown;
+}
+
+.chicken{
+    background-color: green;
+}
+.broccoli{
+    background-color:red ;
+}
+img:hover{
+    color: gold;
+}
